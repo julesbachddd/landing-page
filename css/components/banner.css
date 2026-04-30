@@ -1,10 +1,10 @@
-.banner {
-  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://images.unsplash.com/photo-1492724441997-5dc865305da7')
-  background-size: cover;
-  background-position: center;
-  padding: 150px 0;
-  color: white;
-  text-align: center;
+.banner h1 {
+  font-size: 50px;
+}
+
+.banner h2 {
+  font-size: 25px;
+  opacity: 0.8;
 }
 
 .banner h1 {
